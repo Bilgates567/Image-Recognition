@@ -1,4 +1,4 @@
-## 3. Image Recognition System using SVM and PCA
+## Image Recognition System using SVM and PCA
 - **Description**: Developed an image recognition system using Support Vector Machine (SVM) and Principal Component Analysis (PCA) to classify and identify images accurately. This project focuses on reducing dimensionality with PCA, enhancing feature extraction, and improving model performance for better prediction accuracy using SVM. It involves data preprocessing, training, and evaluation to achieve high efficiency in image classification tasks.
 - **Technologies Used**: Python, SVM, PCA, Scikit-Learn, NumPy, OpenCV
 - **Key Features**:
